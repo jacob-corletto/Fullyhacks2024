@@ -8,7 +8,7 @@
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
         <li><a href="/NBA">NBA</a></li>
-        <li><a href="/stat">Stats</a></li>
+        <li><a href="/stats">Stats</a></li>
     </ul>
     
 </nav>

@@ -9,7 +9,7 @@
     async function fetchData() {
       try {
         const apiKey = 'ada03af2-fde7-4deb-8019-daf62be2df1e';
-        const response = await fetch('https://api.balldontlie.io/v1/stats', {
+        const response = await fetch('https://api.balldontlie.io/v1/stats/dates', {
           headers: {
             'Authorization': `${apiKey}`
           }
