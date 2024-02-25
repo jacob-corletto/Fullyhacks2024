@@ -1,7 +1,7 @@
 <nav>
     <div id="name">
         <img src="/favicon.png" alt="Svelte Logo"  />
-        Meowbits
+        Miami Kittens
     </div>
     
     <ul>
