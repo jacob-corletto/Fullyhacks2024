@@ -1,6 +1,6 @@
 <nav>
     <div id="name">
-        <img src="/favicon.png" alt="Svelte Logo"  />
+        <img src="/coolcat.png" alt="Svelte Logo"  />
         Miami Kittens
     </div>
     
